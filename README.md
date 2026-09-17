@@ -7,7 +7,7 @@
 
   [![Website](https://img.shields.io/badge/Website-digilinks-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://digilinks.vercel.app/)
   [![GitHub](https://img.shields.io/badge/GitHub-digilinkstechsolutions-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/digilinkstechsolutions)
-  [![Instagram](https://img.shields.io/badge/Instagram-@digilinks__tech__solutions-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/digilinks_tech_solutions/)
+  [![Instagram](https://img.shields.io/badge/Instagram-@digilinks__tech__solutions-eb2d6c?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/digilinks_tech_solutions/)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact_Us-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923157611879)
 
   <br />
@@ -53,17 +53,77 @@ We bridge the gap between academic technical excellence and agency-level executi
 
 ### 👥 **The Team Behind DigiLinks**
 
-We are a close-knit, multidisciplinary team of ambitious student developers, creators, and strategists:
+<div align="center">
 
-| Role | Expertise / Focus | Core Stack |
-| :--- | :--- | :--- |
-| **Lead Software Engineers** | Full-Stack Web Architecture, Next.js & Cloud Infrastructure | `TypeScript`, `Next.js`, `Node.js`, `REST/GraphQL` |
-| **UI/UX & Brand Designers** | Design Systems, Brand Identity, Interactive Prototypes | `Figma`, `Adobe CC`, `Tailwind CSS` |
-| **Growth & Media Strategists** | Performance Marketing, SEO, Content & Video Production | `Premiere Pro`, `After Effects`, `Meta Ads` |
+<table border="0" cellspacing="16" cellpadding="0" style="background: transparent;">
+  <!-- Row 1 -->
+  <tr>
+    <td align="center" width="340" style="background: rgba(13, 17, 23, 0.95); border: 1px solid #30363d; border-radius: 16px; padding: 28px 20px; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.8);">
+      <img src="https://thumbs.dreamstime.com/b/businessman-profile-icon-male-portrait-flat-design-vector-illustration-47075627.jpg" width="100" height="100" style="border-radius: 50%; object-fit: cover; border: 2px solid #58a6ff; box-shadow: 0 0 20px rgba(88, 166, 255, 0.35);" alt="Syed Anas Hasan"/>
+      <br /><br />
+      <h3 align="center" style="margin: 0; padding: 0; color: #f0f6fc; font-size: 19px; font-weight: 700; letter-spacing: -0.3px;">Syed Anas Hasan</h3>
+      <p align="center" style="margin: 4px 0 16px 0; color: #8b949e; font-size: 13px; font-weight: 500;">Head of Engineering</p>
+      <div align="center">
+        <a href="https://linkedin.com/in/anas19/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" /></a>
+        <a href="mailto:sanashasan1990@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" /></a>
+      </div>
+      <div align="center" style="margin-top: 6px;">
+        <a href="https://github.com/24fa-035-se-cell"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" /></a>
+        <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-eb2d6c?style=for-the-badge&logo=instagram&logoColor=white" height="28" /></a>
+      </div>
+    </td>
+    <td align="center" width="340" style="background: rgba(13, 17, 23, 0.95); border: 1px solid #30363d; border-radius: 16px; padding: 28px 20px; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.8);">
+      <img src="https://images.assetsdelivery.com/compings_v2/gmast3r/gmast3r1411/gmast3r141100350.jpg" width="100" height="100" style="border-radius: 50%; object-fit: cover; border: 2px solid #58a6ff; box-shadow: 0 0 20px rgba(88, 166, 255, 0.35);" alt="Saad Ali Rizvi"/>
+      <br /><br />
+      <h3 align="center" style="margin: 0; padding: 0; color: #f0f6fc; font-size: 19px; font-weight: 700; letter-spacing: -0.3px;">Saad Ali Rizvi</h3>
+      <p align="center" style="margin: 4px 0 16px 0; color: #8b949e; font-size: 13px; font-weight: 500;">Lead Software Engineer</p>
+      <div align="center">
+        <a href="https://linkedin.com/in/saad-ali-rizvi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" /></a>
+        <a href="mailto:saadalirizvi2@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" /></a>
+      </div>
+      <div align="center" style="margin-top: 6px;">
+        <a href="https://github.com/Blue-Rangoon"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" /></a>
+        <a href="https://instagram.com/whoamisaad"><img src="https://img.shields.io/badge/Instagram-eb2d6c?style=for-the-badge&logo=instagram&logoColor=white" height="28" /></a>
+      </div>
+    </td>
+  </tr>
 
-> *Tip: If you'd like to list specific names/handles (e.g., Founders, Leads), you can replace or expand the table above with your personal GitHub profiles!*
 
----
+
+  <!-- Row 2 -->
+  <tr>
+    <td align="center" width="340" style="background: rgba(13, 17, 23, 0.95); border: 1px solid #30363d; border-radius: 16px; padding: 28px 20px; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.8);">
+      <img src="https://static.vecteezy.com/system/resources/previews/015/573/720/non_2x/hijab-woman-no-face-photo-avatar-free-vector.jpg" width="100" height="100" style="border-radius: 50%; object-fit: cover; border: 2px solid #58a6ff; box-shadow: 0 0 20px rgba(88, 166, 255, 0.35);" alt="Sadia Shoaib"/>
+      <br /><br />
+      <h3 align="center" style="margin: 0; padding: 0; color: #f0f6fc; font-size: 19px; font-weight: 700; letter-spacing: -0.3px;">Sadia Shoaib</h3>
+      <p align="center" style="margin: 4px 0 16px 0; color: #8b949e; font-size: 13px; font-weight: 500;">Growth & Marketing Lead</p>
+      <div align="center">
+        <a href="https://linkedin.com/in/sadia-shoaib-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" /></a>
+        <a href="mailto:sadiashoaib985@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" /></a>
+      </div>
+      <div align="center" style="margin-top: 6px;">
+        <a href="https://github.com/sadia-shoaib/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" /></a>
+        <a href="https://instagram.com/edits_by_sadia__/"><img src="https://img.shields.io/badge/Instagram-eb2d6c?style=for-the-badge&logo=instagram&logoColor=white" height="28" /></a>
+      </div>
+    </td>
+    <td align="center" width="340" style="background: rgba(13, 17, 23, 0.95); border: 1px solid #30363d; border-radius: 16px; padding: 28px 20px; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.8);">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqY45ki02_20qZxFa4fLFz7gxY0nUUiEuNTKgFyX6k7ib_2Gek" width="100" height="100" style="border-radius: 50%; object-fit: cover; border: 2px solid #58a6ff; box-shadow: 0 0 20px rgba(88, 166, 255, 0.35);" alt="Laiba Idrees"/>
+      <br /><br />
+      <h3 align="center" style="margin: 0; padding: 0; color: #f0f6fc; font-size: 19px; font-weight: 700; letter-spacing: -0.3px;">Laiba Idrees</h3>
+      <p align="center" style="margin: 4px 0 16px 0; color: #8b949e; font-size: 13px; font-weight: 500;">UI/UX & Visual Designer</p>
+      <div align="center">
+        <a href="https://linkedin.com/in/laiba-idrees-a14758319/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" /></a>
+        <a href="mailto:laibaidrees2006@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" /></a>
+      </div>
+      <div align="center" style="margin-top: 6px;">
+        <a href="https://github.com/laiba7826/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" /></a>
+        <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-eb2d6c?style=for-the-badge&logo=instagram&logoColor=white" height="28" /></a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ### 🛠️ **Tech Stack & Tooling**
 
@@ -91,10 +151,10 @@ We are a close-knit, multidisciplinary team of ambitious student developers, cre
 
 Have a project idea, need technical consultation, or want to elevate your brand's digital presence? We guarantee a proposal within **24 hours**.
 
-* 🌐 **Website:** [digilinks.vercel.app](https://digilinks.vercel.app/)
-* 📧 **Email:** [digilinkstechsolutions@gmail.com](mailto:digilinkstechsolutions@gmail.com)
-* 💬 **WhatsApp:** [+92 315 7611879](https://wa.me/923157611879)
-* 📍 **Base:** Karachi, Pakistan · *Operating Worldwide*
+* 🌐 [**Official Website**](https://digilinks.vercel.app/)
+* 📧 [**Email**](mailto:digilinkstechsolutions@gmail.com)
+* 💬 [**WhatsApp**](https://wa.me/923157611879)
+* 📍  [**Remote**](https://share.google/rcw3qV1k7qvQJz02d) 
 
 <br />
 
